@@ -9,7 +9,7 @@
 title: Kiotlin's site
 description: > # this means to ignore newlines until "baseurl:"
   I create this just for fun , recording sth. about technology and myself
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 
 # Markdown settings
