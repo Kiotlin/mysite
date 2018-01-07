@@ -23,6 +23,6 @@ Kiotlin (キョトリン Kyotorin?) : Not Kotlin please!
 
 ### Related
 
- * [1Fanwee](https://www.google.com/search?q=slant+eyes+and+cat+girl&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwj_6I2mxcbYAhWJjpQKHfbcCUwQsAQIKA&biw=1301&bih=649)
+ * [1Fanwee](https://www.dshack.org/assets/images/10753791.png)
 
  - - -
